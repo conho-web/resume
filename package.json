@@ -8,7 +8,9 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "cli-cursor": "^5.0.0",
     "core-js": "^3.8.3",
+    "travis": "^0.1.1",
     "vue": "^3.2.13"
   },
   "devDependencies": {
